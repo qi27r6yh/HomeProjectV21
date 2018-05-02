@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">HomeProjectV2.1</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="item1">Item1</string>
+    <string name="item2">Item2</string>
+    <string name="item3">Item3</string>
+    <string name="item4">Item4</string>
+    <string name="item5">Item5</string>
+    <string name="item6">Item6</string>
+
+    <string name="returning">Назад</string>
+    <string name="start">Начать</string>
+    <string name="name_hint">Имя Персонажа:</string>
+    <string name="personStart">Создать персонажа</string>
+    <string name="OK">Готово</string>
+    <string name="book">Учебник</string>
+    <string name="change">Изменить</string>
+
+    <string-array name="topics">
+        <item>Международная система едениц (СИ)</item>
+        <item>Барсик</item>
+
+    </string-array>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+</resources>
